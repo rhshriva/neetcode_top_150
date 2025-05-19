@@ -8,24 +8,24 @@ This repository contains solutions to the NeetCode top 150 coding problems. Thes
 
 ## Categories
 
-- Arrays & Hashing
-- Two Pointers
-- Sliding Window
-- Stack
-- Binary Search
-- Linked List
-- Trees
-- Tries
-- Heap / Priority Queue
-- Backtracking
-- Graphs
-- Advanced Graphs
-- 1-D Dynamic Programming
-- 2-D Dynamic Programming
-- Greedy
-- Intervals
-- Math & Geometry
-- Bit Manipulation
+- [Arrays & Hashing](./src/array_hashing.ipynb)
+- [Two Pointers](./src/two_pointers.ipynb)
+- [Sliding Window](./src/sliding_window.ipynb)
+- [Stack](./src/stack.ipynb)
+- [Binary Search](./src/binary_search.ipynb)
+- [Linked List](./src/linked_list.ipynb)
+- [Trees](./src/trees.ipynb)
+- [Tries](./src/tries.ipynb)
+- [Heap / Priority Queue](./src/heap_priority_queue.ipynb)
+- [Backtracking](./src/backtracking.ipynb)
+- [Graphs](./src/graphs.ipynb)
+- [Advanced Graphs](./src/advanced_graphs.ipynb)
+- [1-D Dynamic Programming](./src/1d_dynamic_programming.ipynb)
+- [2-D Dynamic Programming](./src/2d_dynamic_programming.ipynb)
+- [Greedy](./src/greedy.ipynb)
+- [Intervals](./src/intervals.ipynb)
+- [Math & Geometry](./src/math_geometry.ipynb)
+- [Bit Manipulation](./src/bit_manipulation.ipynb)
 
 ## Repository Structure
 
